@@ -2,5 +2,5 @@
 
 ## Explications :
 
-Ce script à pour but de récupérer un fichier csv comportant des nom et prenom écrit n'importe comment.
+Ce script à pour but de récupérer un fichier csv comportant des nom et prenom écrit n'importe comment. \n
 Son but est de mettre les prénoms en CamelCase et les noms en MAJUSCULE et d'exporter le resultat dans un nouveau fichier csv.
